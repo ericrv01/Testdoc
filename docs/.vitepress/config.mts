@@ -27,6 +27,9 @@ export default defineConfig({
     ],
     editLink: {
       pattern: 'https://github.com/ericrv01/Testdoc/edit/main/docs/:path'
+    },
+    search: {
+      provider: 'local'
     }
   }
 })
