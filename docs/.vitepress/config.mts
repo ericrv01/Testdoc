@@ -24,6 +24,9 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    ],
+    editLink: {
+      pattern: 'https://github.com/ericrv01/Testdoc/edit/main/docs/:path'
+    }
   }
 })
