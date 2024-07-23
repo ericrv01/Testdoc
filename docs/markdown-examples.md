@@ -1,5 +1,7 @@
 # Markdown Extension Examples
 
+## Je fais une modification de la page directement dans github
+
 This page demonstrates some of the built-in markdown extensions provided by VitePress.
 
 ## Syntax Highlighting
